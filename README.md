@@ -8,8 +8,10 @@ The README in English can be found here: [README_en.md](https://github.com/maked
 [![Telegram channel](https://img.shields.io/endpoint?url=https://runkit.io/damiankrawczyk/telegram-badge/branches/master?url=https://t.me/crypto_maked0n1an)](https://t.me/crypto_maked0n1an)
 
 <h2>Описание</h2>
+
 Бот создан для проверки дропа на [RiftSwap](https://riftswap.com/#/airdrop?ref=0x5bf2d391ef1e5f4de528288eb46265b55cf83cb6)
 в виде щитка $RIFT в [Zora](https://zora.co/invite/0x5bF2D391eF1e5f4DE528288eB46265B55cF83cB6)
+
 Критерии:
 1) Uni Zorb holders
 2) LayerZero x Zora holders

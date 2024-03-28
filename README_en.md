@@ -8,8 +8,10 @@ The README in Russian can be found here: [README.md](https://github.com/maked0n1
 [![Telegram channel](https://img.shields.io/endpoint?url=https://runkit.io/damiankrawczyk/telegram-badge/branches/master?url=https://t.me/crypto_maked0n1an)](https://t.me/crypto_maked0n1an)
 
 <h2>Description</h2>
+
 Bot created to check drops on [RiftSwap](https://riftswap.com/#/airdrop?ref=0x5bf2d391ef1e5f4de528288eb46265b55cf83cb6)
 as a $RIFT shitcoin at [Zora](https://zora.co/invite/0x5bF2D391eF1e5f4DE528288eB46265B55cF83cB6)
+
 Criteria:
 1) Uni Zorb holders
 2) LayerZero x Zora holders
