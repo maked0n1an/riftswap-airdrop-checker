@@ -61,13 +61,16 @@ class Checker:
         try:
             drop = await response.json()
             tokens_wei = drop['result']['tokenAmountString']
+            ref_count = drop['result']['referralsAmount']
+            drop_for_ref = 5000
+            
             tokens = TokenAmount(
                 amount=tokens_wei,
                 decimals=18,
                 wei=True
             )
 
-            self.account_info.tokens = tokens.Ether
+            self.account_info.tokens = tokens.Ether + ref_count * drop_for_ref
 
             return self.account_info
         except json.JSONDecodeError:
